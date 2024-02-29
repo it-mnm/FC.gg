@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.105" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.07" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="KR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\PC\AppData\Local\Temp\surefire9181998467829573677\surefirebooter4375253484127375645.jar C:\Users\PC\AppData\Local\Temp\surefire9181998467829573677 2024-02-28T17-44-01_087-jvmRun1 surefire6369220979473435888tmp surefire_017871506466998388066tmp"/>
+    <property name="sun.java.command" value="C:\Users\PC\AppData\Local\Temp\surefire12134901166429324590\surefirebooter16813123724397755170.jar C:\Users\PC\AppData\Local\Temp\surefire12134901166429324590 2024-03-01T07-57-54_820-jvmRun1 surefire13772958069591288279tmp surefire_015164964944248629819tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\PC\OneDrive\바탕 화면\FC.gg\FC.gg\api\demo\target\test-classes;C:\Users\PC\OneDrive\바탕 화면\FC.gg\FC.gg\api\demo\target\classes;C:\Users\PC\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\PC\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\PC\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\PC\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\PC\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\PC\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\PC\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\PC\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.5\jackson-databind-2.12.5.jar;C:\Users\PC\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.5\jackson-annotations-2.12.5.jar;C:\Users\PC\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.5\jackson-core-2.12.5.jar;C:\Users\PC\.m2\repository\com\amazonaws\aws-lambda-java-core\1.2.1\aws-lambda-java-core-1.2.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\PC\AppData\Local\Temp\surefire9181998467829573677\surefirebooter4375253484127375645.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\PC\AppData\Local\Temp\surefire12134901166429324590\surefirebooter16813123724397755170.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="MS949"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\anaconda3\bin;C:\Users\PC\anaconda3\condabin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Bandizip;C:\Program Files (x86)\PuTTY;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Program Files\nodejs;C:\Program Files\apache-maven-3.9.6\bin;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;.;C:\Program Files\JetBrains\PyCharm 2023.2.3\bin;.;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC\AppData\Roaming\npm;D:\IntelliJ IDEA 2023.3.4\bin;.;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Bandizip\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.9.6\bin;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm 2023.2.3\bin;;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC\AppData\Roaming\npm;D:\IntelliJ IDEA 2023.3.4\bin;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="MS949"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0.003"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0.006"/>
 </testsuite>

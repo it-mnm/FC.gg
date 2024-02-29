@@ -47,12 +47,12 @@ public class Getouid implements RequestHandler<Map<String, Object>, String> {
             System.out.println("ouid: " + ouid);
 
             // 조회에 사용할 ouid를 이용한 요청
-            String matchUrl = "https://open.api.nexon.com/fconline/v1/match?";
+            String matchUrl = "https://open.api.nexon.com/fconline/v1/user/match?";
             Map<String, String> matchQueryParams = new HashMap<>();
             matchQueryParams.put("ouid", ouid);
             matchQueryParams.put("matchtype", String.valueOf(50));
             matchQueryParams.put("offset", String.valueOf(0));
-            matchQueryParams.put("limit", String.valueOf(100));
+            matchQueryParams.put("limit", String.valueOf(20));
             // matchQueryParams.put("orderby", "desc");
             String matchUrlWithParams = matchUrl + "=" + buildQueryParams(matchQueryParams);
 
