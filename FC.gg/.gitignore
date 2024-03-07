@@ -1,0 +1,17 @@
+# Ignore .terraform directory
+.terraform
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Ignore Terraform variables file
+terraform.tfvars
+
+# Ignore Terraform CLI configuration file
+.terraformrc
+
+Getmatchdetail_function_payload.zip
+Getmatchid_function_payload.zip
+Getouid_function_payload.zip
+.terraform.lock.hcl

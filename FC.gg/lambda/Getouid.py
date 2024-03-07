@@ -24,7 +24,7 @@ def handle_request(event, context):
         ouid = response_data.get('ouid', '')
         print("ouid:", ouid)
 
-        return ouid
+        return ouid, nickname
 
     except Exception as e:
         print("Error occurred:", str(e))

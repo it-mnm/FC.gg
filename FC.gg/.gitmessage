@@ -1,0 +1,17 @@
+# Title: Summary, imperative, don't end with a period
+# No more than 50 chars. #### 50 chars is here: #
+
+# Remember blank line between title and body.
+
+# Body: Explain *what* and *why* (not *how*). Include task ID (Jira issue).
+# Wrap at 72 chars. ################################## which is here: #
+
+; 🐞 BugFix	버그 수정
+; 🧦 Chore	빌드 업무 수정, 패키지 매니저 수정, 패키지 관리자 구성 등 업데이트(프로덕션 코드 수정X)
+; 🚀 CI / CD	CI/CD 관련 코드
+; 📝 Docs	문서 수정
+; 🤹 Enhance	성능 개선
+; ✨ Feat	새로운 기능 추가
+# 🛠️ refactor	프로덕션 코드 리팩토링(코드 깔끔하게 정리)
+# 🖥 Server	서버 생성 및 수정
+# ⚙️ Setting	설정
